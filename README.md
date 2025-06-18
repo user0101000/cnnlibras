@@ -50,3 +50,5 @@ Sinais em Libras escolhidos: OI, BOM e TCHAU.
 - Recomenda-se uso de fundo uniforme e iluminação constante.
 
 - A acurácia do modelo pode ser melhorada com mais amostras de diferentes pessoas.
+
+- 🗂️ Este repositório representa o conteúdo da pasta `DeepLearning` do projeto original.
