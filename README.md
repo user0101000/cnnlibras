@@ -28,8 +28,9 @@ Instale os pacotes necessários com:
 
 ```bash
 pip install opencv-python tensorflow==2.19.0 scikit-learn matplotlib
+````
 
-🚀 Como Usar
+## 🚀 Como Usar
 
 Clone ou baixe este repositório.
 
@@ -39,13 +40,13 @@ Execute treinamentoCNN.py para treinar o modelo.
 
 Execute testeModelo.py para ver a mágica acontecer! 🪄
 
-💬 Créditos
+## 💬 Créditos
 
 Projeto feito por Blanca adaptado com base em aulas práticas do professor Márcio sobre
 Redes Neurais Convolucionais aplicadas à classificação de imagens.
 Sinais em Libras escolhidos: OI, BOM e TCHAU.
 
-📌 Observações
+## 📌 Observações
 
 - Recomenda-se uso de fundo uniforme e iluminação constante.
 
