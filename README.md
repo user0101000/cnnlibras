@@ -29,6 +29,15 @@ Instale os pacotes necessários com:
 ```bash
 pip install opencv-python tensorflow==2.19.0 scikit-learn matplotlib
 ````
+## Imagens e vídeo do projeto em execução
+
+![Webcam capturando o sinal OI](oi.png)
+
+![Webcam capturando o sinal BOM](bom.png)
+
+![Webcam capturando o sinal TCHAU](tchau.png)
+
+![Assista à demonstração do modelo](videolibrascnn.mp4)
 
 ## 🚀 Como Usar
 
